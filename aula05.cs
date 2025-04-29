@@ -1,4 +1,7 @@
-// Aula de Programação Etsruturada - 08/04/2025 
+/*
+  Aula 05 -  Programação Estruturada 
+  Renata Gardenia  - 08/04/2025 
+*/ 
 // EX1
 Console.WriteLine("Informe o valor do produto 1: ");
 double P1 = Convert.ToDouble(Console.ReadLine());
