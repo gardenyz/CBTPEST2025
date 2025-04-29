@@ -1,6 +1,6 @@
 /*
   Aula 05 -  Programação Estruturada 
-  Renata Gardenia  - 08/04/2025 
+  Renata Gardenia  - 08/04/2025  
 */ 
 // EX1
 Console.WriteLine("Informe o valor do produto 1: ");
